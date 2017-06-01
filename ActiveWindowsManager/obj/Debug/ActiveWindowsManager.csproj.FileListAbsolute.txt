@@ -1,0 +1,9 @@
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\bin\Debug\ActiveWindowsManager.exe.config
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\bin\Debug\ActiveWindowsManager.exe
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\bin\Debug\ActiveWindowsManager.pdb
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\obj\Debug\ActiveWindowsManager.csprojResolveAssemblyReference.cache
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\obj\Debug\ActiveWindowsManager.Form1.resources
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\obj\Debug\ActiveWindowsManager.Properties.Resources.resources
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\obj\Debug\ActiveWindowsManager.csproj.GenerateResource.Cache
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\obj\Debug\ActiveWindowsManager.exe
+c:\users\tyakay\documents\visual studio 2013\Projects\ActiveWindowsManager\ActiveWindowsManager\obj\Debug\ActiveWindowsManager.pdb
